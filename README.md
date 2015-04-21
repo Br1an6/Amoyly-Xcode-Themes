@@ -11,7 +11,7 @@ All themes in this repository is or will soon be available on Alcatraz. Once you
 ## Manual Installation
 
 ### In Terminal
-
+```
 git clone https://github.com/Br1an6/Amoyly-Xcode-Themes.git
 
 cd Amoyly-Xcode-Themes/
@@ -23,3 +23,8 @@ cp *.dvtcolortheme ~/Library/Developer/Xcode/UserData/FontAndColorThemes/
 cd ..
 
 rm -rf Amoyly-Xcode-Themes/
+```
+
+![alt tag](https://raw.githubusercontent.com/Br1an6/Amoyly-Xcode-Themes/master/Amoyly_Class_Implement_Sample.png)
+![alt tag](https://raw.githubusercontent.com/Br1an6/Amoyly-Xcode-Themes/master/Amoyly_Class_Interface_Sample.png)
+![alt tag](https://raw.githubusercontent.com/Br1an6/Amoyly-Xcode-Themes/master/Amoyly_Class_ConsoleWindows_Sample.png)
