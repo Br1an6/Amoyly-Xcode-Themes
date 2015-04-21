@@ -1,5 +1,4 @@
 Amoyly Xcode Themes
-Custom Fonts & Colors palette for Xcode's editor.
 
 Installation
 
@@ -11,7 +10,7 @@ All themes in this repository is or will soon be available on Alcatraz. Once you
 
 Manual Installation
 
-Simply paste this into a new Terminal window :)
+In Terminal
 
 git clone https://github.com/Br1an6/Amoyly-Xcode-Themes.git
 cd Amoyly-Xcode-Themes/
