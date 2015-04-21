@@ -1,13 +1,14 @@
 # Amoyly Xcode Themes
+A sexy, elegant, and comfortable-reading theme
 
 ## Installation
 ***
 The preferred installation method for this Color Schemes is done using the Package (Plug-ins) Manager Alcatraz. Custom Color Schemes for Xcode are stored in the ~/Library/Developer/Xcode/UserData/FontAndColorThemes/ folder.
 
 ## Installation using Alcatraz
-
-All themes in this repository is or will soon be available on Alcatraz. Once you have Alcatraz installed, installing the theme is done in Xcode's menu Window -> Package Manager simply by clicking on the Color Scheme you want to add to Xcode. You may need to restart Xcode to see the new themes.
 ***
+Now available on [Alcatraz](https://github.com/supermarin/Alcatraz). Once you have Alcatraz installed, installing the theme is done in Xcode's menu Window -> Package Manager simply by clicking on the Color Scheme you want to add to Xcode. You may need to restart Xcode to see the new themes.
+
 ## Manual Installation
 
 ### In Terminal
@@ -24,7 +25,8 @@ cd ..
 
 rm -rf Amoyly-Xcode-Themes/
 ```
-
+### Class
 ![alt tag](https://raw.githubusercontent.com/Br1an6/Amoyly-Xcode-Themes/master/Amoyly_Class_Implement_Sample.png)
 ![alt tag](https://raw.githubusercontent.com/Br1an6/Amoyly-Xcode-Themes/master/Amoyly_Class_Interface_Sample.png)
+### Console
 ![alt tag](https://raw.githubusercontent.com/Br1an6/Amoyly-Xcode-Themes/master/Amoyly_Class_ConsoleWindows_Sample.png)
