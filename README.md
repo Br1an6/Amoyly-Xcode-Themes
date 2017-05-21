@@ -30,3 +30,9 @@ rm -rf Amoyly-Xcode-Themes/
 ![alt tag](https://raw.githubusercontent.com/Br1an6/Amoyly-Xcode-Themes/master/Amoyly_Class_Interface_Sample.png)
 ### Console
 ![alt tag](https://raw.githubusercontent.com/Br1an6/Amoyly-Xcode-Themes/master/Amoyly_Class_ConsoleWindows_Sample.png)
+
+License
+-------
+
+This software is licensed under the [MIT license][mit].
+© 2015-2017 Amoyly Xcode Themes contributors
