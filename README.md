@@ -34,5 +34,5 @@ rm -rf Amoyly-Xcode-Themes/
 License
 -------
 
-This software is licensed under the [MIT license][mit].
+This software is licensed under the MIT license
 © 2015-2017 Amoyly Xcode Themes contributors
