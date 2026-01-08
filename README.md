@@ -36,3 +36,5 @@ License
 
 This software is licensed under the MIT license
 © 2015-2017 Amoyly Xcode Themes contributors
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I3I81RWCLP)
